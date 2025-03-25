@@ -31,6 +31,19 @@ CrackScan is an advanced AI-powered crack segmentation system designed for Struc
   3. Validated through field tests on real structures.
 
 
+
+
+# Contributors:
+
+  Sai Sriram Gonthina (IIIT Naya Raipur)
+  Aditya SVS (IIIT Naya Raipur)
+  Akshar Teja Gannoju (IIIT Naya Raipur)
+  Debanjan Das (IIT Kharagpur)
+  Aparna Sinha (IIT Roorkee)
+
+
+
+
 NOTE: The code will be updated soon.
 
 # Under Major Revision, for IEEE Sensors Journal.
