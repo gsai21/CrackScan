@@ -38,8 +38,8 @@ CrackScan is an advanced AI-powered crack segmentation system designed for Struc
   1. Sai Sriram Gonthina (IIIT Naya Raipur).
   2. Aditya SVS (IIIT Naya Raipur).
   3. Akshar Teja Gannoju (IIIT Naya Raipur).
-  4. Debanjan Das (IIT Kharagpur).
-  5. Aparna Sinha (IIT Roorkee).
+  4. Dr. Debanjan Das (IIT Kharagpur).
+  5. Dr. Aparna Sinha (IIT Roorkee).
 
 
 
