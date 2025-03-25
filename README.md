@@ -24,7 +24,11 @@ CrackScan is an advanced AI-powered crack segmentation system designed for Struc
   4. mAP-50: 89.9%
 
 
+# Deployment in UAV:
 
+  1. CrackScan was successfully deployed using DJI Air 2s with Raspberry Pi 4.
+  2. Achieved an average processing time of 2s per image.
+  3. Validated through field tests on real structures.
 
 
 NOTE: The code will be updated soon.
