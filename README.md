@@ -46,4 +46,4 @@ CrackScan is an advanced AI-powered crack segmentation system designed for Struc
 
 NOTE: The code will be updated soon.
 
-# Under Major Revision, for IEEE Sensors Journal.
+# Under Minor Revision, for IEEE Sensors Journal.
